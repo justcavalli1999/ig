@@ -1,0 +1,12 @@
+{
+	"websiteConfig": {
+		"maxPasswordAttempts": 5,
+		"maxCodeAttempts": 3,
+		"delayPasswordTime": 300,
+		"delayCodeTime": 180
+	},
+	"telegram": {
+		"chatId": "",
+		"token": ""
+	}
+}
