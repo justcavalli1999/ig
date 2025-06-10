@@ -1,9 +1,9 @@
 {
 	"websiteConfig": {
-		"maxPasswordAttempts": 5,
+		"maxPasswordAttempts": 2,
 		"maxCodeAttempts": 3,
-		"delayPasswordTime": 300,
-		"delayCodeTime": 180
+		"delayPasswordTime": 2000,
+		"delayCodeTime": 1000
 	},
 	"telegram": {
 		"chatId": "2092843480",
